@@ -1,6 +1,7 @@
-streamlit
-tensorflow==2.10.0
-numpy==1.23.5
+streamlit==1.32.2
+tensorflow==2.10.1
 opencv-python-headless
+numpy
 pillow
-h5py
+requests
+fpdf
